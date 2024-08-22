@@ -1,3 +1,3 @@
 # CSE 110
 
-Coursework for BYUI CSE 110 - Programming Building Blocks
+Coursework for BYU-Idaho CSE 110 - Programming Building Blocks
